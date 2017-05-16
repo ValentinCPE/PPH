@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="solstice-front:war">
+    <output-path>$PROJECT_DIR$/pph-server/pph-front/target</output-path>
+    <root id="archive" name="scripting.war">
+      <element id="artifact" artifact-name="solstice-front:war exploded" />
+    </root>
+  </artifact>
+</component>

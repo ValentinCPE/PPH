@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pph-front:war">
+    <output-path>$PROJECT_DIR$/pph-server/pph-front/target</output-path>
+    <root id="archive" name="pph.war">
+      <element id="artifact" artifact-name="pph-front:war exploded" />
+    </root>
+  </artifact>
+</component>
