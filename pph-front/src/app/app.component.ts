@@ -11,7 +11,7 @@ import { HttpRequester, Constants } from './utils';
 })
 export class AppComponent {
 
-    name = 'PPH'; // Name of the App
+    title = 'PPH'; // Name of the App
     private isLeftMenuOpen:boolean = false; //open automatically
     private menuPortal = '';
     private displayImportPopin: boolean = false;

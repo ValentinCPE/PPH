@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pph-server/pph.iml" filepath="$PROJECT_DIR$/pph-server/pph.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pph-server/pph-core/pphCore.iml" filepath="$PROJECT_DIR$/pph-server/pph-core/pphCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pph-server/pph-controller/pph-controller.iml" filepath="$PROJECT_DIR$/pph-server/pph-controller/pph-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pph-server/pph-core/pph-core.iml" filepath="$PROJECT_DIR$/pph-server/pph-core/pph-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/pph-server/pph-front/pph-front.iml" filepath="$PROJECT_DIR$/pph-server/pph-front/pph-front.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pph-solution.iml" filepath="$PROJECT_DIR$/.idea/pph-solution.iml" />
     </modules>

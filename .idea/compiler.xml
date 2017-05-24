@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="pph-api" />
+        <module name="pph-controller" />
         <module name="pph-core" />
         <module name="pph-front" />
         <module name="pphCore" />
@@ -14,6 +16,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="pph" target="1.8" />
+      <module name="pph-api" target="1.8" />
+      <module name="pph-controller" target="1.8" />
       <module name="pph-core" target="1.8" />
       <module name="pph-front" target="1.8" />
       <module name="pphCore" target="1.8" />

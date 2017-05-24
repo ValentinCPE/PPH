@@ -9,6 +9,7 @@
 	<modules>
 		<module>pph-core</module>
         <module>pph-front</module>
+		<module>pph-controller</module>
 	</modules>
 	<packaging>pom</packaging>
 
